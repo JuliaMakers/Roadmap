@@ -11,3 +11,6 @@ There are roughly 6 phases to getting this organization off of the ground
 
 Phase 1. Pre-existing contributions
 There's a whole host of projects that could belong here. A list of my personal favorites starts with:
+- https://github.com/emmt/AndorCameras.jl
+- https://github.com/JuliaIO/AndorSIF.jl (may or may not belong here)
+- XboxController (in review)
