@@ -14,3 +14,8 @@ There's a whole host of projects that could belong here. A list of my personal f
 - https://github.com/emmt/AndorCameras.jl
 - https://github.com/JuliaIO/AndorSIF.jl (may or may not belong here)
 - XboxController (in review)
+- https://github.com/JuliaIO/LibSerialPort.jl (belongs to IO but should it?)
+- https://github.com/sjkelly/Descartes.jl (pre alpha but awesome!)
+- https://github.com/sjkelly/ZenFab.jl (unknown status)
+- https://github.com/sjkelly/Magpie.jl (unknown status)
+- 
