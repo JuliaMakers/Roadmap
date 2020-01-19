@@ -18,4 +18,5 @@ There's a whole host of projects that could belong here. A list of my personal f
 - https://github.com/sjkelly/Descartes.jl (pre alpha but awesome!)
 - https://github.com/sjkelly/ZenFab.jl (unknown status)
 - https://github.com/sjkelly/Magpie.jl (unknown status)
-- 
+- https://github.com/scls19fr/Nextion.jl 
+- https://github.com/yakir12/COBS.jl (seems directly in line!)
