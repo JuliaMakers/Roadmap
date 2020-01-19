@@ -5,7 +5,7 @@ There are roughly 6 phases to getting this organization off of the ground
 1. Understand the prexisting contributions from the Julia Community that may fall into this category.
 2. Reach out to contributors, collaborators, let them know they are welcome here.
 3. Find 'flagship' packages which should be included in this organization and don't step on toes.
-4. Share some of our personal contributions in the form of projects of work in progress repositories.
+4. Share some of our personal contributions in the form of projects or work in progress repositories.
 5. Stoke the community with blog posts, funny projects, and positive feelings.
 6. Keep thinking and keep tinkering!
 
