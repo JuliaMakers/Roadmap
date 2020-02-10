@@ -20,3 +20,7 @@ There's a whole host of projects that could belong here. A list of my personal f
 - https://github.com/sjkelly/Magpie.jl (unknown status)
 - https://github.com/scls19fr/Nextion.jl 
 - https://github.com/yakir12/COBS.jl (seems directly in line!)
+- https://github.com/BBN-Q/Instruments.jl
+- https://github.com/iuliancioarca/GenericInstruments.jl
+- https://gitlab.control.lth.se/labdev/LabConnections.jl
+- https://gitlab.control.lth.se/processes/LabProcesses.jl
