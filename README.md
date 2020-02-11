@@ -24,3 +24,4 @@ There's a whole host of projects that could belong here. A list of my personal f
 - https://github.com/iuliancioarca/GenericInstruments.jl
 - https://gitlab.control.lth.se/labdev/LabConnections.jl
 - https://gitlab.control.lth.se/processes/LabProcesses.jl
+- https://github.com/laborg/HidApi.jl
